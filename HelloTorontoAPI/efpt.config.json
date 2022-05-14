@@ -1,0 +1,55 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "HellotorontoContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "HelloTorontoAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[comment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[post]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[postLike]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[user]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "LAPTOP-BGC8U41V\\SQLEXPRESS.db_a7e8dd_hellotoronto",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
