@@ -29,6 +29,7 @@ if (app.Environment.IsDevelopment())
 
 //Enable CORS
 app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+
 app.UseAuthorization();
 
 app.UseAuthorization();

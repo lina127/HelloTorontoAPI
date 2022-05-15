@@ -101,7 +101,7 @@ namespace HelloTorontoAPI.Controllers
 
         // [True] if user exit
         [HttpPost]
-        [Route("/api/Users/UserExist")]
+        [Route("/api/Users/isUserExist")]
         public bool GetUser(string email, string password)
         {
             email = email.Trim().ToLower();
